@@ -1,7 +1,7 @@
 # Hangman-Python
 Welcome to the MVC Implementation of the Hangman game in Python using pygame ! 
 
-Beware, the words might not be that easy to guess ! 
+Beware, the words might not be that easy to guess ! Hint: checking the letter 'A' might be a good starting point based on the lexicon used in the game. (The lexicon is chosen specifically to be slightly more challenging than fully random words) 
 
 The code consists of 4 modules - the model that contains the lexicon and the functions to interact with it, the controller that contains the logic of the game and the communication between the components, the view that contains the display setup and text rendering on the frontend and 'tests' which contains a set of python unit tests
 
