@@ -13,7 +13,7 @@ The game will continue to play as long as you run it. If you would like to stop 
 
 Have fun guessing ! 
 
-In case you get libpng warning: iCCP: known incorrect sRGB profile - please follow the guideline for removing the iCCP chunk from the PNG image: 
+In case you get libpng warning: iCCP: known incorrect sRGB profile while loading the .png files - please follow the guideline for removing the iCCP chunk from the PNG image: 
 
 Install imageMagick - https://imagemagick.org/index.php
 
